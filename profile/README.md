@@ -7,5 +7,5 @@ The organization TVLearn aims at bundling projects on truncated variational opti
 
 Jakob Drefs, Enrico Guiraud, Jörg Lücke (2022).<br>
 Evolutionary Variational Optimization of Generative Models.<br>
-_Journal of Machine Learning Research._ (in press; preliminary [arXiv](https://arxiv.org/abs/2012.12294) version)<br>
+_Journal of Machine Learning Research, 23(21):1-51._ ([online access](https://www.jmlr.org/papers/v23/20-233.html))<br>
 Source Code [here](https://github.com/tvlearn/evo) and [here](https://github.com/tvlearn/tvo).
