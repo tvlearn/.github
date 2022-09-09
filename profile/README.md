@@ -9,7 +9,7 @@ Jakob Drefs*, Enrico Guiraud*, Filippos Panagiotou, Jörg Lücke (2022).<br>
 Direct Evolutionary Optimization of Variational Autoencoders With Binary Latents.<br>
 _Joint European Conference on Machine Learning and Knowledge Discovery in Databases_, Springer, Cham, accepted.<br>
  *Joint first authorship<br>
-Source Code coming soon.<br>
+Source Code [here](https://github.com/tvlearn/ecml2022).<br>
 
 Jakob Drefs, Enrico Guiraud, Jörg Lücke (2022).<br>
 Evolutionary Variational Optimization of Generative Models.<br>
