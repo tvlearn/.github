@@ -7,7 +7,7 @@ The organization TVLearn aims at bundling projects on truncated variational opti
 
 Jakob Drefs*, Enrico Guiraud*, Filippos Panagiotou, Jörg Lücke (2022).<br>
 Direct Evolutionary Optimization of Variational Autoencoders With Binary Latents.<br>
-_Joint European Conference on Machine Learning and Knowledge Discovery in Databases_, Springer, Cham, accepted. ([online access](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1229.pdf))<br>
+_Joint European Conference on Machine Learning and Knowledge Discovery in Databases_, Springer, Cham. ([online access](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_22))<br>
  *Joint first authorship<br>
 Source Code [here](https://github.com/tvlearn/ecml2022).<br>
 
